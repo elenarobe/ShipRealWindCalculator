@@ -7,7 +7,7 @@ import pynmea2
 import math
 import numpy as np
 import decimal
-import threading
+import threading #test comm
 import pyqtgraph as pg
 import queue
 from pyqtgraph import plot
