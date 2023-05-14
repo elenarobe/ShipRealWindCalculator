@@ -12,7 +12,7 @@ The program design was developed entirely in Qt Designer. Qt Designer is a free 
 
 The algorithm implementation and programming of the new graphical interface (Fig. 4.2) was done with the Python programming language. Python is a dynamic, multi-paradigm, object-oriented programming language that emphasizes code cleanliness and simplicity. Its syntax allows developers to express some programming ideas in a clearer and more concise way than in other programming languages, such as C++. The development environment chosen for Python in our case was the Visual Studio Code software, which is also a free program.
 
-![image](https://github.com/elenarobe/ShipRealWindCalculator/assets/121317737/91e1ef4c-5d97-4ec1-b7fd-7e790d133134)
+![image](https://github.com/elenarobe/ShipRealWindCalculator/assets/121317737/91e1ef4c-5d97-4ec1-b7fd-7e790d133134)<br/>
 Fig. 2 Main Window
 
 Due to the change in the programming approach caused by the way the data flow is obtained, the strategy for interpreting the results has also been changed. Thus, since both input and output data are read and calculated in real-time continuously, the user has the option to plot the wind estimate graphically at any time they wish (Fig. 3). The resulting sequence can be immediately visualized and stored under the graph (Fig. 4).
