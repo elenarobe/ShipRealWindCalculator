@@ -19,6 +19,7 @@ Due to the change in the programming approach caused by the way the data flow is
 
 ![image](https://github.com/elenarobe/ShipRealWindCalculator/assets/121317737/4976a1e3-83c7-4db1-b266-3898a8fb5d11)
 Fig. 3 Query calculation and plotting of data set.
+
 ![image](https://github.com/elenarobe/ShipRealWindCalculator/assets/121317737/f29e4e2c-e189-47f6-9b74-d3b98a3b3eb9)
 Fig. 4 Query calculation and plotting of data set
 
