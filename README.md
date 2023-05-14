@@ -17,9 +17,9 @@ Fig. 2 Main Window
 
 Due to the change in the programming approach caused by the way the data flow is obtained, the strategy for interpreting the results has also been changed. Thus, since both input and output data are read and calculated in real-time continuously, the user has the option to plot the wind estimate graphically at any time they wish (Fig. 3). The resulting sequence can be immediately visualized and stored under the graph (Fig. 4).
 
-![image](https://github.com/elenarobe/ShipRealWindCalculator/assets/121317737/4976a1e3-83c7-4db1-b266-3898a8fb5d11)
+![image](https://github.com/elenarobe/ShipRealWindCalculator/assets/121317737/4976a1e3-83c7-4db1-b266-3898a8fb5d11)<br/>
 Fig. 3 Query calculation and plotting of data set.
 
-![image](https://github.com/elenarobe/ShipRealWindCalculator/assets/121317737/f29e4e2c-e189-47f6-9b74-d3b98a3b3eb9)
+![image](https://github.com/elenarobe/ShipRealWindCalculator/assets/121317737/f29e4e2c-e189-47f6-9b74-d3b98a3b3eb9)<br/>
 Fig. 4 Query calculation and plotting of data set
 
